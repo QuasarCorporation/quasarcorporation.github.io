@@ -1,2 +1,2 @@
-# quasartechnology.github.io
-Quasar Technology
+# quasarcorporation.github.io
+Quasar Corporation
